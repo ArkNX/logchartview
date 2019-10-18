@@ -1,0 +1,1 @@
+go build -v -o http_back.exe http_back.go tail_file.go

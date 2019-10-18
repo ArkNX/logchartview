@@ -1,0 +1,19 @@
+{
+  "Loginfo": [
+    {
+      "Logpath": "C:\\nodejs\\testview\\backgound_src\\",
+      "Filename": "testlog.txt",
+      "Readcount": 5
+    },
+    {
+      "Logpath": "C:\\nodejs\\testview\\backgound_src\\",
+      "Filename": "testlog.txt",
+      "Readcount": 5
+    }
+  ],
+  "ListenInfo": {
+    "Urlinterface": "/TestChart",
+    "Address": "",
+    "Port": "12345"
+  }
+}
